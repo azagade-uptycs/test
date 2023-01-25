@@ -1,1 +1,1 @@
-Test repository
+Test repository created for testing.
